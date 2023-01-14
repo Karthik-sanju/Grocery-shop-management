@@ -1,12 +1,12 @@
 # Grocery-shop-management
-Grocery Shop Management
+
 Introduction:
 Grocery shop owner who manages shop alone without support from her family.
 Looking for a technology solution (console-based application) to  manage  business.
 The objective of this application is to help an admin to manage customer details and day to day 
 transactions.
 Application features:
-Create a console-based application to help the Doris to execute the following tasks:
+Create a console-based application  to execute the following tasks:
 1. Add customer details (customer id, name, city, mobile number).
 2. Add grocery details (grocery id, name, price)
 3. View Customer
